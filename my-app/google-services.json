@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637910798890",
+    "project_id": "rideawake-8778e",
+    "storage_bucket": "rideawake-8778e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637910798890:android:843eac1ba1d17f26636953",
+        "android_client_info": {
+          "package_name": "com.rideAwake.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAplP9SSK85zbB3cxzNnXz2qHDWQTimUvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
